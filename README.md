@@ -19,7 +19,7 @@
 - **Atajos personalizados**: Simplificación de comandos comunes.
 
 ### WezTerm
-<img src="https://wezfurlong.org/wezterm/img/icon.svg" alt="WezTerm Logo" width="100" />
+<img src="https://raw.githubusercontent.com/wezterm/wezterm/main/assets/icon/wezterm-icon.svg" width="100" />
 
 **WezTerm** es un emulador de terminal rápido y moderno. Destacados en mi configuración:
 
