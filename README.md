@@ -11,7 +11,7 @@
 - **Navegación rápida**: Atajos y mejoras en el flujo de trabajo.
 
 ### Tmux
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Tmux_logo.svg" alt="Tmux Logo" width="100" />
+<img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo-medium.png" alt="Tmux Logo" width="100" />
 
 **Tmux** es un multiplexor de terminal que permite dividir ventanas y administrar múltiples sesiones. Mis configuraciones incluyen:
 
