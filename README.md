@@ -1,6 +1,6 @@
 # Mis Dotfiles: Optimizando el Desarrollo
 
-## Tecnologías Incluidas
+## Tecnologías Incluidas 
 
 ### Neovim (nvim)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim Logo" width="100" />
