@@ -26,38 +26,7 @@
 - **Autocompletado inteligente**: Predicciones basadas en comandos anteriores.
 - **Configuraciones minimalistas**: Scripts y alias para tareas repetitivas.
 
-## Beneficios de Mis Dotfiles
-1. **Portabilidad**: Replicación rápida de configuraciones en cualquier sistema.
-2. **Productividad**: Atajos, plugins y scripts diseñados para optimizar tareas frecuentes.
-3. **Estandarización**: Flujos de trabajo homogéneos en cualquier entorno de desarrollo.
 
-## Repositorio
-Encuentra estas configuraciones en mi [repositorio de GitHub](#).
-
-## Cómo Usarlos
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/miusuario/dotfiles.git
-   ```
-2. Ejecuta el script de instalación:
-   ```bash
-   ./install.sh
-   ```
-3. Disfruta de un entorno de desarrollo optimizado.
-
-## Capturas
-
-### Neovim Configurado
-<img src="https://via.placeholder.com/800x400.png" alt="Neovim Config" width="600" />
-
-### Tmux en Acción
-<img src="https://via.placeholder.com/800x400.png" alt="Tmux Session" width="600" />
-
-### WezTerm Personalizado
-<img src="https://via.placeholder.com/800x400.png" alt="WezTerm" width="600" />
-
-### Fish Shell
-<img src="https://via.placeholder.com/800x400.png" alt="Fish Shell" width="600" />
 
 ## Conclusión
 Con estas configuraciones, mi entorno de desarrollo es rápido, eficiente y adaptado a mis necesidades. ¡Espero que te inspiren a personalizar tu propio flujo de trabajo!
