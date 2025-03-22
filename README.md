@@ -34,20 +34,8 @@
 - **Autocompletado inteligente**: Predicciones basadas en comandos anteriores.
 - **Configuraciones minimalistas**: Scripts y alias para tareas repetitivas.
 
-## Beneficios de Mis Dotfiles
+### Conclusión
 
-1. **Portabilidad**: Replicación rápida de configuraciones en cualquier sistema.
-2. **Productividad**: Atajos, plugins y scripts diseñados para optimizar tareas frecuentes.
-3. **Estandarización**: Flujos de trabajo homogéneos en cualquier entorno de desarrollo.
-
-## Repositorio
-
-Encuentra estas configuraciones en mi [repositorio de GitHub](#).
-
-## Cómo Usarlos
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/miusuario/dotfiles.git
+Con estas configuraciones, mi entorno de desarrollo es rápido, eficiente y adaptado a mis necesidades. ¡Espero que te inspiren a personalizar tu propio flujo de trabajo!
 
 
