@@ -27,7 +27,7 @@
 - **Temas personalizados**: Mejoras visuales y legibilidad.
 
 ### Fish Shell
-<img src="https://fishshell.com/assets/img/logo.svg" alt="Fish Shell Logo" width="100" />
+<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="Fish Shell Logo" width="100" />
 
 **Fish Shell** es un shell interactivo que proporciona:
 
